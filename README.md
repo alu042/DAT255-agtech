@@ -1,10 +1,12 @@
-AgTech
+Agriculture Technology (AgTech)
 ==============================
 
 A hands-on exploration of the world of AgTech.
 
 > This is an example used in [DAT255](https://github.com/HVL-ML/DAT255). It is a skeleton project meant to help students get started with their own projects.
 
+
+The slides accompanying the project can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vSFtTsAzrGwXETVMaQlbelOe8VNptf3GTVGABAKh6koSu2Wcu74QdYOkh7-W6blsB5xUwNljDwA4I0C/pub?start=false&loop=false&delayms=3000).
 
 
 ## Report
