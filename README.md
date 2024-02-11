@@ -3,9 +3,8 @@ AgTech
 
 A hands-on exploration of the world of AgTech.
 
-> This is an example used in [DAT255](https://github.com/HVL-ML/DAT255). 
+> This is an example used in [DAT255](https://github.com/HVL-ML/DAT255). It is a skeleton project meant to help students get started with their own projects.
 
-_Details to be added._
 
 
 ## Report
@@ -13,8 +12,6 @@ _Details to be added._
 See [./reports/report.md](./reports/report.md)
 
 ## Jupyter Notebooks
-
-<img width=30% src="https://camo.githubusercontent.com/9503e54cf4a17e4096f5d428569b641f29b2372ca2543a15a6893aba107412a4/68747470733a2f2f63646e2e6f7265696c6c797374617469632e636f6d2f656e2f6173736574732f312f6576656e742f3237312f6a75706e79323031375f706f77657265645f62795f6c6f676f2e706e67">
 
 See [./notebooks/](./notebooks/)
 
